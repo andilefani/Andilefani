@@ -1,4 +1,6 @@
-"Welcome to the coding summer school"
+# Andilefani
+
+Welcome to the coding summer school
 <!--
 **andilefani/Andilefani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
